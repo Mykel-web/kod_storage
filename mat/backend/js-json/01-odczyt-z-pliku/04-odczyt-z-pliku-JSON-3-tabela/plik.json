@@ -1,0 +1,24 @@
+{
+	"osoby": [
+		{
+			"imie": "Stefan",
+			"nazwisko": "Stefanowski"
+		},
+		{
+			"imie": "Jan",
+			"nazwisko": "Jankowski"
+		},
+		{
+			"imie": "Piotr",
+			"nazwisko": "Piotrowski"
+		},
+		{
+			"imie": "Paweł",
+			"nazwisko": "Pawłowski"
+		},
+		{
+			"imie": "Maciej",
+			"nazwisko": "Maciejewski"
+		}
+	]
+}

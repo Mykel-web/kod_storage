@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c1c2b2cb-e01d-4983-9f02-af48b06980c4" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../matury - moje/2021_czerwiec(ok)/.idea/2021_czerwiec.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../matury - moje/2021_czerwiec(ok)/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../matury - moje/2021_czerwiec(ok)/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../matury - moje/2021_czerwiec(ok)/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../matury - moje/2021_czerwiec(ok)/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../matury - moje/2021_czerwiec(ok)/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../matury - moje/2021_czerwiec(ok)/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../matury - moje/2021_czerwiec(ok)/41_numbers_in_strnigs.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../matury - moje/2021_czerwiec(ok)/42_tekst[1][2].py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../matury - moje/2021_czerwiec(ok)/43_palikoty.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../matury - moje/2021_czerwiec(ok)/44_numbers_to_chr().py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../matury - moje/2021_czerwiec(ok)/Przechwytywanie.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../matury - moje/2021_czerwiec(ok)/koncerty.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../matury - moje/2021_czerwiec(ok)/miasta.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../matury - moje/2021_czerwiec(ok)/napisy.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../matury - moje/2021_czerwiec(ok)/przyklad.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../matury - moje/2021_czerwiec(ok)/zespoly.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../matury - moje/2021_maj(ok)/.idea/2021_maj.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../matury - moje/2021_maj(ok)/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../matury - moje/2021_maj(ok)/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../matury - moje/2021_maj(ok)/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../matury - moje/2021_maj(ok)/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../matury - moje/2021_maj(ok)/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../matury - moje/2021_maj(ok)/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../matury - moje/2021_maj(ok)/41_liczenie_instrukcji.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../matury - moje/2021_maj(ok)/42_max_ciag.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../matury - moje/2021_maj(ok)/43_count_all_occurencies_list.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../matury - moje/2021_maj(ok)/44_wykonanie_instrukcji.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../matury - moje/2021_maj(ok)/Przechwytywanie.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../matury - moje/2021_maj(ok)/gracze.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../matury - moje/2021_maj(ok)/instrukcje.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../matury - moje/2021_maj(ok)/jednostki.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../matury - moje/2021_maj(ok)/klasy.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../matury - moje/2021_maj(ok)/polecenie.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../matury - moje/2021_maj(ok)/przyklad.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../matury - moje/2021_maj(ok)/wodociagi.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../matury - moje/2022_czerwiec(ok)/.idea/2022_czerwiec.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../matury - moje/2022_czerwiec(ok)/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../matury - moje/2022_czerwiec(ok)/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../matury - moje/2022_czerwiec(ok)/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../matury - moje/2022_czerwiec(ok)/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../matury - moje/2022_czerwiec(ok)/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../matury - moje/2022_czerwiec(ok)/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../matury - moje/2022_czerwiec(ok)/41_dzielenie_odbic.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../matury - moje/2022_czerwiec(ok)/42_roznica_odbic.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../matury - moje/2022_czerwiec(ok)/43_prime_odbic.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../matury - moje/2022_czerwiec(ok)/44_liczba_count.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../matury - moje/2022_czerwiec(ok)/5_temperatury.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../matury - moje/2022_czerwiec(ok)/DANE/kluby.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../matury - moje/2022_czerwiec(ok)/DANE/liczby.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../matury - moje/2022_czerwiec(ok)/DANE/mecze.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../matury - moje/2022_czerwiec(ok)/DANE/przyklad.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../matury - moje/2022_czerwiec(ok)/DANE/sedziowie.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../matury - moje/2022_czerwiec(ok)/DANE/temperatury.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../matury - moje/2022_maj(ok)/.idea/2022_maj.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../matury - moje/2022_maj(ok)/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../matury - moje/2022_maj(ok)/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../matury - moje/2022_maj(ok)/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../matury - moje/2022_maj(ok)/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../matury - moje/2022_maj(ok)/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../matury - moje/2022_maj(ok)/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../matury - moje/2022_maj(ok)/41_pierwsza-ostatni_cyfra.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../matury - moje/2022_maj(ok)/42_rozklad_czynnikow.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../matury - moje/2022_maj(ok)/43_trojki_liczb_wpliku.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../matury - moje/2022_maj(ok)/51.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../matury - moje/2022_maj(ok)/ewidencja.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../matury - moje/2022_maj(ok)/klasa.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../matury - moje/2022_maj(ok)/liczby.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../matury - moje/2022_maj(ok)/przyklad.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../matury - moje/2022_maj(ok)/soki.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../matury - moje/2022_maj(ok)/uczen.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cwiczenia/video copier/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cwiczenia/video copier/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cwiczenia/video copier/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cwiczenia/video copier/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cwiczenia/video copier/nr.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../cwiczenia/video copier/nr.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cwiczenia/video copier/video_copier.py" beforeDir="false" afterPath="$PROJECT_DIR$/../cwiczenia/video copier/video_copier.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2BNjWVgqKhUpehynezSp2czQfys" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;full.screen.before.presentation.mode&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/xamp/htdocs/kod/py/interpret&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;aDefault&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;Errors&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Python.18_wrapper">
+    <configuration name="11_wycinek_tuple" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="first" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11_wycinek_tuple.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="13_string" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="first" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/13_string.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="14_list_adv" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="first" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/14_list_adv.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="15_funkcje_anonim" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="first" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/15_funkcje_anonim.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="18_wrapper" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="first" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/18_wrapper.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.18_wrapper" />
+        <item itemvalue="Python.15_funkcje_anonim" />
+        <item itemvalue="Python.13_string" />
+        <item itemvalue="Python.14_list_adv" />
+        <item itemvalue="Python.11_wycinek_tuple" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="false" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c1c2b2cb-e01d-4983-9f02-af48b06980c4" name="Changes" comment="" />
+      <created>1656753470840</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1656753470840</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
+  </component>
+</project>

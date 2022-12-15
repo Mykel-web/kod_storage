@@ -1,0 +1,2 @@
+background: #202124
+font: #D6D6D7

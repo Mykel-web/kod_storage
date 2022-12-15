@@ -1,0 +1,42 @@
+Do egzaminu (może):
+UPDATE dane SET pole = 2345.5 WHERE id = 2
+ALTER TABLE tabela ADD FOREIGN KEY(id_banku) REFERENCES bank(id) ON UPDATE CASCADE ON DELETE CASCADE
+DELETE FROM tabela WHERE Name='ktos'; - usuwanie wierszy
+SELECT CONCAT(column1, ' ' ,column2) AS newColumn - połączenie dwóch kolumn
+SELECT DATEDIFF("2017-06-25", "2017-06-15") as days_difference - liczba dni pomiędzy datami
+Wszystko:
+CREATE TABLE tabela (                 - dodanie tabeli nowej
+    id INT PRIMARY KEY AUTO_INCREMENT,
+    nazwa text,
+    column2 datatype
+)
+
+ALTER TABLE dane ADD pole float - dodanie pola 
+
+ALTER TABLE tabela ADD pole INT AFTER pole - dodaje pole w okreslonym miejscu
+
+INSERT INTO tabela (pole, pole) VALUES (wartosc, wartosc) - dodanie wiersza do tabeli
+
+UPDATE dane SET pole = 2345.5  - ustawienie wartosci dla pola = 2345.5 DLA wierszu id 2
+WHERE id = 2
+
+UPDATE dane SET pole = "wartosc" - ustawia wartosc pola dla okreslonych id 
+WHERE id>=1 AND id<=5
+
+przy podwójnym inner join zamiast (as tab): - utworzenie relacji aby bylo git
+ALTER TABLE tabela ADD FOREIGN KEY(id_banku) REFERENCES bank(id) ON UPDATE CASCADE ON DELETE CASCADE
+
+DELETE FROM tabela WHERE Name='ktos'; - usuwanie wierszy
+
+                           ||||     ADVANCED    ||||
+mysql - u root - logowanie na roota
+show databases;
+use database;
+show tables;
+GRANT SELECT, INSERT ON psy.* TO weterynarz@localhost IDENTIFIED BY 'tajne'; - przyznanie
+uprawnien i utwozenie weterynarz@localhost z haslem tajne (np. GRANT ALL PRIVILEGES)
+mysql -u user -p - logowanie do konta z haslem
+SET PASSWORD = PASSWORD('btajne'); ustawienie hasla dla aktualnego usera
+REVOKE INSERT ON psy.* FROM weterynarz@localhost; - kradziez uprawnienia INSERT
+drop user weterynarz@localhost; -usuwanie 
+drop database psy; - usuwanie

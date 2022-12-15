@@ -1,0 +1,52 @@
+body, html{
+    height: 100%;
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+}
+#menu-container{
+    margin-bottom: 3vh;
+    margin-top: 3vh;
+    height: 6vh;
+}
+#kanwa{
+    visibility: visible;
+    background-color: bisque;
+    width: 100%;
+    height: 90vh;
+}
+#load{
+
+
+    top: 12vh;
+    height: 88vh;
+    width: 100%;
+    position: absolute;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgba(0, 24, 61, 1);
+
+    animation: load 2s linear 1s forwards;
+}
+span{
+    position: absolute;
+    font-size: 80px;
+    text-shadow: 4px 4px #000;
+    background-color: rgba(0, 24, 61, 1);
+    border: solid 10px rgba(0, 24, 61, 1);
+    border-radius: 40px;
+
+
+
+    
+}
+@keyframes load{
+    from{
+
+    }   
+    to{
+        width: fit-content;
+        height: fit-content;
+    }
+}

@@ -1,0 +1,7 @@
+1. user2'--[spacja] 
+2.' OR 2=2 --[spacja] 
+
+SELECT * FROM dane WHERE user='user2'-- [spacja]' AND pass='tajne'
+SELECT * FROM dane WHERE user='' OR 2=2 --[spacja] ' AND pass='tajne'
+
+SELECT * FROM dane WHERE user='$login' AND pass='$password'

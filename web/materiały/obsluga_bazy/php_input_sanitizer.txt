@@ -1,0 +1,16 @@
+//polaczenie
+            $connect = mysqli_connect('localhost', 'root', '', '4ag_biblioteka');
+            mysqli_query($connect, "SET NAMES utf8");
+
+            // prepare and bind
+            $sql = $connect->prepare("INSERT INTO autorzy (imie, nazwisko) VALUES (?, ?)");
+            $sql->bind_param("ss", $firstname, $lastname);
+
+            // set parameters and execute
+            $firstname = htmlspecialchars(strip_tags($_POST['name']));
+            $lastname = htmlspecialchars(strip_tags($_POST['lastname']));
+            $sql->execute();
+
+            echo "Dodano autora";
+            $sql->close();
+            $connect->close();

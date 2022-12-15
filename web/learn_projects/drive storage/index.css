@@ -1,0 +1,95 @@
+@import url(http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700,900|Cabin:400,900|Droid+Serif:400,700|Playball);
+
+body,
+html {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    background: url("images/start.jpg") no-repeat fixed center;
+    background-size: cover;
+}
+
+body {
+    color: white;
+    font-family: 'Cabin';
+    font-size: 50px;
+}
+
+/* start */
+#log-l{
+    font-size: 200%;
+    background-color: rgba(0, 0, 0, 0.9);
+    box-shadow: 0px 0px 10px 15px rgba(0, 0, 0, 0.9);
+    color: cyan;
+}
+#login {
+    font-size: 40px;
+    color: white;
+    height: 100%;
+    transform: translateY(-1000px);
+    animation: wejscie 1.5s ease-out 1 forwards;
+}
+
+#register {
+    font-size: 40px;
+    color: white;
+    height: 100%;
+    transform: translateY(-1000px);
+    animation: wejscie 1.5s ease-out 1 forwards;
+}
+
+@keyframes wejscie {
+    0% {
+        transform: translateY(-1000px);
+    }
+    90% {
+        transform: translateY(50px);
+    }
+    100% {
+        transform: translateY(0px);
+    }
+}
+
+#register>form,
+#login>form {
+    background-color: rgba(0, 0, 0, 0.5);
+    box-shadow: 0px 0px 15px 15px rgba(0, 139, 219, 0.7);
+    backdrop-filter: blur(5px);
+    border-radius: 20px;
+    font-size: 30px;
+}
+
+input {
+    text-align: center;
+    font-size: 30px!important;
+}
+
+#error {
+    font-size: 75%;
+}
+
+#js-error {
+    color: white;
+    background: rgba(0, 139, 219, 0.9);
+    border-radius: 20px;
+    font-size: 40px;
+    word-wrap: normal;
+    max-width: 200px !important;
+}
+
+.title {
+    font-size: 70px;
+    background: rgba(0, 0, 0, 0.9);
+    box-shadow: 0px 0px 10px 15px rgba(0, 0, 0, 0.9);
+    border-radius: 15px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+#b-register>input {
+    border-width: 5px !important;
+}
+#b-register{
+    font-size: 20px;
+}

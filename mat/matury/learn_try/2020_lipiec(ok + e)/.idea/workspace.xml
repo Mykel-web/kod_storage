@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a1595f46-eda0-4db5-9edb-c2468efceee2" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/.github/FUNDING.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/Algorytmy.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/Python_funkcje_matura.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka czerwiec 2015/61.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka czerwiec 2015/62.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka czerwiec 2015/63.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka czerwiec 2015/Database18.accdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka czerwiec 2015/MIN-R2A1P-153_dane/kierowcy.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka czerwiec 2015/MIN-R2A1P-153_dane/mandaty.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka czerwiec 2015/MIN-R2A1P-153_dane/piastek.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka czerwiec 2015/MIN-R2A1P-153_dane/wykroczenia.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka czerwiec 2015/Zeszyt1.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka czerwiec 2015/cyfra_kodkreskowy.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka czerwiec 2015/informatyka-2015-czerwiec-matura-rozszerzona-2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka czerwiec 2015/informatyka-2015-czerwiec-matura-rozszerzona-zalaczniki.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka czerwiec 2015/kody.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka czerwiec 2015/kody1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka czerwiec 2015/kody2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka czerwiec 2015/kody3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka czerwiec 2016/61.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka czerwiec 2016/62.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka czerwiec 2016/63.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka czerwiec 2016/64.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka czerwiec 2016/65.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka czerwiec 2016/MIN-R2A1P-163_dane/maturzysta.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka czerwiec 2016/MIN-R2A1P-163_dane/przedmioty.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka czerwiec 2016/MIN-R2A1P-163_dane/ubezpieczenia.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka czerwiec 2016/MIN-R2A1P-163_dane/zdaje.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka czerwiec 2016/Zeszyt1.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka czerwiec 2016/Zeszyt2.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka czerwiec 2016/informatyka-2016-czerwiec-matura-rozszerzona-2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka czerwiec 2016/informatyka-2016-czerwiec-matura-rozszerzona-zalaczniki.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka czerwiec 2016/liczby.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka czerwiec 2017/41.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka czerwiec 2017/42.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka czerwiec 2017/43.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka czerwiec 2017/44.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka czerwiec 2017/Database10.accdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka czerwiec 2017/MIN-DANE-2017/pakiety.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka czerwiec 2017/MIN-DANE-2017/programy.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka czerwiec 2017/MIN-DANE-2017/transport.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka czerwiec 2017/MIN-DANE-2017/zestawy.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka czerwiec 2017/Zeszyt1.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka czerwiec 2017/informatyka-2017-czerwiec-matura-rozszerzona-2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka czerwiec 2017/informatyka-2017-czerwiec-matura-rozszerzona-zalaczniki.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka czerwiec 2017/punkty.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka czerwiec 2018/41.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka czerwiec 2018/42.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka czerwiec 2018/43.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka czerwiec 2018/44.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka czerwiec 2018/Database11.accdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka czerwiec 2018/NM_DANE_PR/ceny_za_dobe.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka czerwiec 2018/NM_DANE_PR/klienci.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka czerwiec 2018/NM_DANE_PR/pomiary.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka czerwiec 2018/NM_DANE_PR/samochody.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka czerwiec 2018/NM_DANE_PR/wypozyczenia.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka czerwiec 2018/Zeszyt1.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka czerwiec 2018/dane1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka czerwiec 2018/dane2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka czerwiec 2018/informatyka-2018-czerwiec-matura-rozszerzona-2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka czerwiec 2018/informatyka-2018-czerwiec-matura-rozszerzona-zalaczniki.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka czerwiec 2018/przyklad1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka czerwiec 2018/przyklad2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka czerwiec 2019/41.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka czerwiec 2019/42.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka czerwiec 2019/43.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka czerwiec 2019/Database7.accdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka czerwiec 2019/MIN-R2A1P-193_dane/agenci.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka czerwiec 2019/MIN-R2A1P-193_dane/klienci.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka czerwiec 2019/MIN-R2A1P-193_dane/liczby_przyklad.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka czerwiec 2019/MIN-R2A1P-193_dane/oferty.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka czerwiec 2019/MIN-R2A1P-193_dane/pierwsze_przyklad.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka czerwiec 2019/MIN-R2A1P-193_dane/pogoda.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka czerwiec 2019/MIN-R2A1P-193_dane/zainteresowanie.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka czerwiec 2019/Zeszyt1.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka czerwiec 2019/informatyka-2019-czerwiec-matura-rozszerzona-2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka czerwiec 2019/informatyka-2019-czerwiec-matura-rozszerzona-zalaczniki.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka czerwiec 2019/liczby.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka czerwiec 2019/pierwsze.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka czerwiec 2020/41.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka czerwiec 2020/42.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka czerwiec 2020/43.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka czerwiec 2020/Database15.accdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka czerwiec 2020/Zeszyt1.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka czerwiec 2020/informatyka-2020-czerwiec-matura-rozszerzona-2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka czerwiec 2020/informatyka-2020-czerwiec-matura-rozszerzona-zalaczniki.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka maj 2015/Database17.accdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka maj 2015/Kierowcy.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka maj 2015/Wyniki.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka maj 2015/Wyscigi.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka maj 2015/Zeszyt1.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka maj 2015/informatyka-2015-maj-matura-rozszerzona-2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka maj 2015/informatyka-2015-maj-matura-rozszerzona-zalaczniki.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka maj 2015/kraina.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka maj 2015/kwerenda.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka maj 2015/liczby.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka maj 2015/zadanie41.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka maj 2015/zadanie42.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka maj 2015/zadanie43.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka maj 2016/61.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka maj 2016/62.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka maj 2016/63.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka maj 2016/Database9.accdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka maj 2016/Zeszyt1.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka maj 2016/dane_6_1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka maj 2016/dane_6_2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka maj 2016/dane_6_3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka maj 2016/informatyka-2016-maj-matura-rozszerzona-2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka maj 2016/informatyka-2016-maj-matura-rozszerzona-zalaczniki.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka maj 2016/informatyka-2016-maj-matura-rozszerzona-zalaczniki/Dane_NOWA/meldunek.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka maj 2016/informatyka-2016-maj-matura-rozszerzona-zalaczniki/Dane_NOWA/punkty.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka maj 2016/informatyka-2016-maj-matura-rozszerzona-zalaczniki/Dane_NOWA/studenci.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka maj 2016/informatyka-2016-maj-matura-rozszerzona-zalaczniki/Dane_NOWA/wypozyczenia.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka maj 2016/quick_sort_wydajnosc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka maj 2016/wyniki_6_1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka maj 2017/61.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka maj 2017/62.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka maj 2017/63.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka maj 2017/64.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka maj 2017/Dane_PR/cennik.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka maj 2017/Dane_PR/cukier.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka maj 2017/Dane_PR/druzyny.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka maj 2017/Dane_PR/przyklad.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka maj 2017/Dane_PR/sedziowie.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka maj 2017/Dane_PR/wyniki.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka maj 2017/Database4.accdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka maj 2017/Zeszyt1.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka maj 2017/dane.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka maj 2017/informatyka-2017-maj-matura-rozszerzona-2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka maj 2017/informatyka-2017-maj-matura-rozszerzona-zalaczniki.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka maj 2018/41.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka maj 2018/42.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka maj 2018/43.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka maj 2018/9767d80712558776.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka maj 2018/Dane_PR/Database5.accdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka maj 2018/Dane_PR/awarie.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka maj 2018/Dane_PR/komputery.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka maj 2018/Dane_PR/naprawy.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka maj 2018/Dane_PR/przyklad.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka maj 2018/Dane_PR/woda.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka maj 2018/Zeszyt1.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka maj 2018/dupa.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka maj 2018/informatyka-2018-maj-matura-rozszerzona-2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka maj 2018/informatyka-2018-maj-matura-rozszerzona-zalaczniki (1).zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka maj 2018/sygnaly.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka maj 2019/.idea/informatyka maj 2019.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka maj 2019/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka maj 2019/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka maj 2019/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka maj 2019/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka maj 2019/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka maj 2019/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka maj 2019/41.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka maj 2019/42.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka maj 2019/43.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka maj 2019/Dane_PR/marki.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka maj 2019/Dane_PR/perfumy.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka maj 2019/Dane_PR/pogoda.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka maj 2019/Dane_PR/sklad.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka maj 2019/Database13.accdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka maj 2019/informatyka-2019-maj-matura-rozszerzona-2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka maj 2019/informatyka-2019-maj-matura-rozszerzona-zalaczniki.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka maj 2019/liczby.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka maj 2019/przyklad.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka próbna 2020/41.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka próbna 2020/42.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka próbna 2020/43.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka próbna 2020/Database14.accdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka próbna 2020/Zeszyt1.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka próbna 2020/dane4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka próbna 2020/informatyka-2020-kwiecien-probna-rozszerzona-2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka próbna 2020/informatyka-2020-kwiecien-probna-rozszerzona-zalaczniki.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka próbna 2020/klienci.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka próbna 2020/pogoda.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka próbna 2020/wizytydane.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka próbna 2020/wizytyzabiegi.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka próbna 2020/zabiegi.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka próbna 2021/41.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka próbna 2021/42.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka próbna 2021/43.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka próbna 2021/Dane_2103.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka próbna 2021/Dane_2103/czasy.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka próbna 2021/Dane_2103/grupy.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka próbna 2021/Dane_2103/startujacy.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka próbna 2021/Dane_2103/telefony.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka próbna 2021/Dane_2103/zawodnicy.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka próbna 2021/Database12.accdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka próbna 2021/EINP-R1-100-2103.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka próbna 2021/EINP-R2-100-2103.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka próbna 2021/Zeszyt1.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka próbna 2021/galerie.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Arkusze_informatyka_Python-main/informatyka próbna 2021/galerie_przyklad.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../first/13_string.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../first/13_string.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../first/1_podstawy.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../first/1_podstawy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2019_czerwiec/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2019_czerwiec/.idea/2019_czerwiec.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2019_czerwiec/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2019_czerwiec/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2019_czerwiec/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2019_czerwiec/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2019_czerwiec/41_liczby.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2019_czerwiec/42_pierwsze.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2019_czerwiec/43_ciag.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2019_czerwiec/agenci.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2019_czerwiec/klienci.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2019_czerwiec/liczby.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2019_czerwiec/liczby_przyklad.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2019_czerwiec/oferty.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2019_czerwiec/pierwsze.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2019_czerwiec/pierwsze_przyklad.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2019_czerwiec/pogoda.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2019_czerwiec/zainteresowanie.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2019_maj(to do)/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2019_maj(to do)/.idea/2019_maj.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2019_maj(to do)/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2019_maj(to do)/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2019_maj(to do)/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2019_maj(to do)/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2019_maj(to do)/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2019_maj(to do)/41_potegi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2019_maj(to do)/42_silnia.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2019_maj(to do)/43_ciag.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2019_maj(to do)/43_ciagi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2019_maj(to do)/liczby.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2019_maj(to do)/przyklad.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2020_czerwiec/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2020_czerwiec/.idea/2020_czerwiec.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2020_czerwiec/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2020_czerwiec/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2020_czerwiec/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2020_czerwiec/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2020_czerwiec/41_pierwsze.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2020_czerwiec/42_string.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2020_czerwiec/43_pary.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2020_czerwiec/51_jezyki.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2020_czerwiec/jezyki.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2020_czerwiec/odp_przyklad.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2020_czerwiec/panstwa.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2020_czerwiec/pary.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2020_czerwiec/przyklad.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2020_czerwiec/statek.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2020_czerwiec/uzytkownicy.txt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2C1s4fp9MowkfXmHPaZuSYu1RJH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Python.41">
+    <configuration name="41" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="2020_maj" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/41.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="42" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="2020_maj" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/42.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="43" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="2020_maj" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/43.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.41" />
+        <item itemvalue="Python.42" />
+        <item itemvalue="Python.43" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a1595f46-eda0-4db5-9edb-c2468efceee2" name="Changes" comment="" />
+      <created>1657981235918</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1657981235918</updated>
+    </task>
+    <servers />
+  </component>
+</project>

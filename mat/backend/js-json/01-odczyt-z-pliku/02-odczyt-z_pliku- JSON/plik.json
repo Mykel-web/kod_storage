@@ -1,0 +1,20 @@
+{
+    "glowny": {
+        "imie": "Imie0",
+        "nazwisko": "nazwisko"
+    },
+    "poboczny": {
+        "imie": "imie1",
+        "nazwisko": "nazwisko2"
+    },
+    "sektor": [
+        {
+            "imie": "Imie2",
+            "nazwisko": "nazwisko"
+        },
+        {
+            "imie": "imie3",
+            "nazwisko": "nazwisko2"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+5.1
+Początek	17.08.2022
+Koniec		31.08.2022
+
+5.2
+		hot-dogi	kukurydza	lody
+czerwiec	2639		2355		3527
+lipiec		2747		2448		3675
+sierpień	2665		2390		3579
+
+
+5.3
+27.06.2022 suma_utargów: 45358
+
+5.4
+a)	23.09.2022
+b)	1,34
+

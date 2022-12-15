@@ -1,0 +1,40 @@
+
+5.1
+program	Liczba klientów
+1	11
+2	9
+3	9
+4	7
+5	6
+6	10
+7	11
+8	6
+9	12
+10	8
+11	16
+12	14
+13	7
+14	12
+15	6
+
+5.2
+miast z których przyjechał 1 samochód: 78
+miast z których przyjechały 2 samochódy: 21
+
+5.3
+a) 114
+b) 19:54:00
+
+5.4
+godzina	przyjazdów
+6	9
+7	8
+8	7
+9	9
+10	5
+11	10
+
+
+5.5
+a)	KP566
+b)	2

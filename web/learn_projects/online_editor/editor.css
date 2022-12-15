@@ -1,0 +1,91 @@
+@import url(http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700,900|Cabin:400,900|Droid+Serif:400,700);
+html, body{
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    height: 100%;
+}
+body{
+    background-color: #252526;
+    color: white;
+    cursor: default;
+}
+
+#kontener{
+    position: relative;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#tytul{
+    background-color: #333333;
+    position: relative;
+    width: 98%;
+    height: 15%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 60px;
+    font-family: cursive;
+    box-shadow: 0 0 10px rgb(255 255 255 / 50%);
+}
+#read{
+    position: fixed;
+    opacity: 0;
+}
+#tekst{
+    position: relative;
+    width: 98%;
+    height: 83%;
+    color: white;
+    overflow: hidden;
+    box-sizing: border-box;
+    box-shadow: 0 0 10px rgb(255 255 255 / 50%);
+}
+textarea{
+    width: 100%;
+    height: 100%;
+    background-color: #1e1e1e;
+    color: white;
+    text-decoration: none;
+    border: none;
+    resize: none;
+    outline: none;
+    font-size: 30px;
+    font-family: cursive;
+    line-height: 50px;
+    box-sizing: border-box;
+    padding-left: 30px; padding-top: 30px; padding-right: 40px; padding-bottom: 40px;
+    cursor: default;
+    word-break: break-all;
+}
+#forma{
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+#info{
+    height: 30px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+.user{
+    position: absolute;
+    width: fit-content;
+    height: fit-content;
+    padding:8px;
+    padding-bottom: 16px;
+    color: rgb(102, 255, 0);
+    top: 0;
+    font-size: 25px;
+    box-sizing: border-box;
+    background-image: url("bubble.png");
+    background-size: 200px 52px;
+    background-repeat: no-repeat;
+}

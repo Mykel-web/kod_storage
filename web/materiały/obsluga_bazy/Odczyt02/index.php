@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <h2>Zawartość bazy</h2>
+    <?php
+    $connect  = mysqli_connect('localhost', 'root', '', 'kl3Ag') or die("Poroblem z połaczeniem");
+    mysqli_query($connect, 'SET NAMES UTF8');
+    $sql = "SELECT dane.imie, dane.nazwisko, dane.data, lokacja.nazwa
+            FROM dane INNER JOIN lokacja
+            ON dane.id_lokacji = lokacja.id";
+    $result = mysqli_query($connect, $sql) or die("Błędna kwerenda");
+    echo "<ol>";
+    while($row = mysqli_fetch_assoc($result)){
+        echo "<li> {$row['imie']}  {$row['nazwisko']} urodzony {$row['data']}, zamieszkały:  {$row['nazwa']} </li>";
+    }
+    echo "</ol>";
+    mysqli_close($connect);
+    ?>
+</body>
+
+</html>

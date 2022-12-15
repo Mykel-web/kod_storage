@@ -1,0 +1,90 @@
+html {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    width: 100%;
+    height: 100%;
+    padding: 0;
+    margin: 0;
+    background-color: rgb(32, 32, 32);
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+    color: white;
+
+}
+
+body::-webkit-scrollbar {
+    display: none;
+}
+/* buton check */
+#bb{
+    position: fixed;
+    left: 0;
+    top: 0;
+    z-index: 1001;
+}
+
+/*   skroller  */
+.skroller {
+    position: fixed;
+    overflow-y: scroll;
+    width: 100%;
+    height: 1000px;
+    opacity: 0.1;
+    top: 0;
+    z-index: 1000;
+}
+.seg {
+    margin-bottom: 50px;
+    font-size: 60px;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 600px;
+    background-color: rgb(51, 51, 51);
+}
+.seg:last-of-type{
+    height: 350px;
+}
+/*   skroller END */
+
+/* KONTENT */
+#strona{
+    position: absolute;
+    top: 0px;
+    width: 100%;
+    height: 1000px;
+    overflow-y: hidden;
+    display: flex;
+    flex-direction: column;
+    transition: all ease-out 0.75s;
+}
+#siema{
+    position: relative;    
+    height: 10%;
+    width: 100%;
+
+    font-size: 30px;
+    text-align: center;
+    color: blue;
+}
+#kontent{
+    position: relative;
+
+    height: 90%;
+    width: 100%;
+
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(38, 40, 155);
+    color: red;
+}
+#kontent span{
+    height: 600px;
+}

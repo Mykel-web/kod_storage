@@ -1,0 +1,30 @@
+{
+	"osoby": [
+		{
+			"imie": "stefan",
+			"nazwisko": "Stefanowski",
+			"stan_konta": 1235
+		},
+		{
+			"imie": "Jan",
+			"nazwisko": "Jankowski",
+			"stan_konta": 1234
+		},
+		{
+			"imie": "Piotr",
+			"nazwisko": "Piotrowski",
+			"stan_konta": 1232
+		}
+	],
+	"psy":[
+		{
+			"imie": "puszek"
+		},
+		{
+			"imie": "kruszek"
+		},
+		{
+			"imie": "dulek"
+		}
+	]
+}

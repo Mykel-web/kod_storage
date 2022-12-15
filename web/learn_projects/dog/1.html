@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <style>
+        body {
+            background-image: url("wolf1.jpg");
+        }
+    </style>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Piesel</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" href="wolf.jpg">
+    <link href='https://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet'>
+</head>
+
+<body>
+    <div id="menu-container">
+        <div id="menu">
+        </div>
+    </div>
+    <div id="main-container">
+        <div id="right">
+            <h3>Jednym z najlepszych sposobów na utrzymanie psów w zdrowiu jest podawanie im odpowiedniej ilości
+                wysokiej
+                jakości karmy dla psów.</h3>
+            Karmienie psa za dużo lub za mało może mieć pewne konsekwencje zdrowotne.
+            Jeśli karmisz psa za mało, może cierpieć na niedobory żywieniowe.
+            Jednakże, jeśli karmisz psa za dużo, ostatecznie doprowadzi to do otyłości i związanych z nią problemów
+            zdrowotnych, takich jak:
+            <ul>
+                <li>Niewydolność serca</li>
+                <li>Problemy z oddechem</li>
+                <li>Schorzenia skóry</li>
+                <li>Niektóre rodzaje raka</li>
+                <li> Skrócona żywotność</li>
+                <li>Obniżona jakość życia</li>
+            </ul>
+
+            Zapewnienie psu odpowiedniej ilości wysokiej jakości karmy może pomóc w utrzymaniu ogólnego stanu zdrowia
+            Twojego zwierzaka i sprawić, by czuł się jak najlepiej.
+            <h3>Ogólne porady żywieniowe.</h3>
+            Dorosły pies powinien dostawać dwa posiłki dziennie - rano i wieczorem. Dotyczy to psa starszego niż rok.
+            Nie dotyczy to szeczniąt i psów miniaturowych.
+            Więcej niż dwa razy dziennie zaleca się karmić także psy pracujące, sportowe oraz w starszym wieku.
+        </div>
+        <div id="left">
+            <h3>Ogólne żywienie psa</h3>
+            <div id="pies1" onclick="wiek(1)">Dorosły</div>
+            <br>
+            <div id="pies2" onclick="wiek(2)">Szczeniak</div>
+            <h3>Waga psa (kg):</h3>
+            <input id="waga" type="number">
+            <h3>Średnia ilość karmy dziennie:</h3>
+            <p id="wynik">Podaj wagę</p>
+            Każde karmienie należy dostosować do aktywności psa.
+        </div>
+    </div>
+    <script>sessionStorage.setItem("numer", "1");</script>
+    <script src="script.js"></script>
+
+</body>
+
+</html>
